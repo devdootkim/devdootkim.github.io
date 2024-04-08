@@ -4,6 +4,7 @@ tags:
     - book
     - education
     - Ipsum
+    - adventure
 date: "2023-12-03"
 thumbnail: "/assets/img/thumbnail/book.jpg"
 bookmark: true
